@@ -31,7 +31,7 @@
 
 ## 開發人員
 
-- rax0609 (https://github.com/rax0609)
+- [rax0609](https://github.com/rax0609)
 
 ## 貢獻
 
