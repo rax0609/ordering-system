@@ -32,6 +32,7 @@
 ## 開發人員
 
 - [rax0609](https://github.com/rax0609)
+- [陳定宏(Ding-Horng Chen)](https://github.com/chendh)
 
 ## 貢獻
 
