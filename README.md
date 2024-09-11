@@ -14,7 +14,7 @@
 1. 克隆這個倉庫到本地：
 
     ```bash
-    git clone https://github.com/yourusername/ordering-system.git
+    git clone https://github.com/rax0609/ordering-system.git
     ```
 
 2. 開啟Visual Studio並且加載專案解決方案檔案(.sln)。
@@ -31,7 +31,7 @@
 
 ## 開發人員
 
-- 你的名字 (https://github.com/yourusername)
+- rax0609 (https://github.com/rax0609)
 
 ## 貢獻
 
@@ -42,8 +42,4 @@
 3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 創建一個新的Pull Request
-
-## 許可證
-
-此專案基於MIT許可證 - 詳見 [LICENSE](LICENSE) 文件。
 
